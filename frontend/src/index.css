@@ -10,10 +10,27 @@
 }
 
 html, body {
-  background-color: #eeecec;
+  background-image: url(./assets/img/filmes.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 a, a:hover{
   text-decoration: none;
   color: unset;
+}
+
+.match-roda-pe{
+  color: white;
+  background-color: black;
+}
+
+.match-roda-pe button{
+  margin: 0 0 10px;
+}
+
+.match-roda-pe button:hover{
+  font-size: 16.3px;
+  background-color: red;
+  color: black;
 }

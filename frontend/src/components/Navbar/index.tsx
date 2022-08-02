@@ -1,4 +1,3 @@
-import {ReactComponent as LogoTexto} from 'assets/img/LogoTexto.svg';
 import {ReactComponent as LogoGit} from '../../assets/img/git.svg';
 import './styles.css';
 
@@ -9,7 +8,7 @@ function Navbar(){
         <nav className="container">
           <div className="match-nav">
             <div className="match-logo-name">
-              <LogoTexto/>
+              <h1>Matchflix</h1>
             </div>
             <div className="match-git">
               <a href="https://github.com/Filipereislopes" target="_blank">

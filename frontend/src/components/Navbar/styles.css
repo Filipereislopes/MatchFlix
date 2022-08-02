@@ -25,9 +25,9 @@ header{
     margin: 0 0 0 5px;
 }
 
-.match-logo-name{
-    width: 238px;
-    height: 45px;
-    left: 77px;
-    top: 14px;
+.match-logo-name h1{
+    color: var(--color-primary);
+    font-weight: bolder;
+    font-size: 32px;
 }
+

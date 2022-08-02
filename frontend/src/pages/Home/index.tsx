@@ -1,9 +1,12 @@
 import Login from "pages/Login";
 
+
 function Home(){
 
-    return(  
+    return( 
+        <div>
             <h1>Página Home</h1>
+        </div> 
     )
 
 }
