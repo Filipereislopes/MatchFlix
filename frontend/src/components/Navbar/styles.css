@@ -1,0 +1,33 @@
+header{
+    display: flex;
+    align-items: center;
+    height: 70px
+}
+
+.match-nav {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    
+}
+
+.match-git{
+    display: flex;
+    align-items: center;
+}
+
+.match-git a{
+    display: flex;
+    color: white;
+}
+
+.match-git-name{
+    margin: 0 0 0 5px;
+}
+
+.match-logo-name{
+    width: 238px;
+    height: 45px;
+    left: 77px;
+    top: 14px;
+}
